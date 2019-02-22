@@ -19,7 +19,7 @@ Install the libraries.
 pip3 install tweepy nltk google-cloud-language python-telegram-bot
 ```
 
-Create a developer account to access Twitter API and a service account key to access Google Natural Language API, you can follow the "Getting Started" steps in [here](https://medium.com/@dzakok)
+Create a developer account to access Twitter API and a service account key to access Google Natural Language API, you can follow the "Getting Started" steps in [here](https://medium.freecodecamp.org/how-to-make-your-own-sentiment-analyzer-using-python-and-googles-natural-language-api-9e91e1c493e)
 
 Configure the path.
 ```
