@@ -1,6 +1,6 @@
 # sentweetbot
 
-Read the full tutorial in my [medium](https://medium.freecodecamp.org/how-to-make-your-own-sentiment-analyzer-using-python-and-googles-natural-language-api-9e91e1c493e)
+Read the full tutorial in my [medium](https://medium.com/free-code-camp/how-to-make-your-own-sentiment-analyzer-using-python-and-googles-natural-language-api-9e91e1c493e?source=friends_link&sk=2ea3a009d7c88601d0c6f386244ea266)
 
 Check the bot in [here](http://telegram.me/sentweetbot).
 
