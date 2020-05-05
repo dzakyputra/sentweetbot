@@ -83,7 +83,7 @@ def send_the_result(bot, update):
                            + ' | ' + status)
 
 def main():
-    updater = Updater('YOUR_TOKEN')
+    updater = Updater('YOUR_TOKEN', use_context=True)
     dp = updater.dispatcher
     dp.add_handler(MessageHandler(Filters.text, send_the_result))
     updater.start_polling()
